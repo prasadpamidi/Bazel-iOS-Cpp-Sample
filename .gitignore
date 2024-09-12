@@ -1,0 +1,12 @@
+xcuserdata/
+
+*.xcodeproj
+
+build/
+
+*.hmap
+*.ipa
+*.dSYM
+*.dSYM.zip
+
+bazel-*
